@@ -1,4 +1,4 @@
-## create a virtual environment
+## Create a virtual environment
 
 '''
 steps:
@@ -10,3 +10,15 @@ source avtivate ./env
 
 '''
 git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin <your repo git url>
+
+git push -u origin main
+
+'''
