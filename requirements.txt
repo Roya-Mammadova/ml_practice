@@ -1,8 +1,9 @@
 pandas
 numpy
-flask
+Flask
+seaborn
+matplotlib
 ipykernel
 
 
-
--e.
+-e .
